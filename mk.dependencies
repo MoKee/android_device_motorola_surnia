@@ -1,5 +1,9 @@
 [
   {
+    "repository":  "android_vendor_motorola_surnia",
+    "target_path": "vendor/motorola/surnia"
+  },
+  {
     "repository":  "android_device_motorola_msm8916-common",
     "target_path": "device/motorola/msm8916-common"
   }
